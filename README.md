@@ -19,11 +19,7 @@ final_score = alpha * yake_score + (1-alpha) * ml_probability
 
 Watch the demo: [View Demo Video](https://github.com/user-attachments/assets/0f0497db-6b9e-425c-82a9-f82427aad7d0)
 
-[![Embedded screen recording here, showcasing the working app.]](https://github.com/user-attachments/assets/5835eef5-cd11-4445-a5dc-d0d1f53f14e2)  
-
-[![Embedded screen recording here, showcasing the working app.]](https://github.com/user-attachments/assets/b381a83e-1610-42b2-a3cb-c41545177287)  
-
-[![Embedded screen recording here, showcasing the working app.]](https://github.com/user-attachments/assets/884b01dd-c31f-4861-b184-4b00ab1cc040)  
+[![Embedded screen recording here, showcasing the working app.]](https://github.com/user-attachments/assets/0f0497db-6b9e-425c-82a9-f82427aad7d0)  
 
 ### Installation
 
